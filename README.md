@@ -1,5 +1,5 @@
 # Car-Sales-Dataset
-Here i am upload Car Sales Details from multiple Manufacturers
+Here i have upload Car Sales Details from multiple Manufacturers
 Dataset: Car_sales.csv
 
 Description:
