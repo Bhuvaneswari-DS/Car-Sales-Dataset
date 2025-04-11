@@ -1,6 +1,7 @@
 # Car-Sales-Dataset
 Here i am upload Car Sales Details from multiple Manufacturers
 Dataset: Car_sales.csv
+
 Description:
 This dataset contains detailed information about car sales and associated metrics. It is designed for analysis in areas such as sales trends, market performance, customer preferences, and financial statistics related to the automotive industry.
 
